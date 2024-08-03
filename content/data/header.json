@@ -33,15 +33,6 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Start a Project",
-            "url": "https://imbassy.com/start-a-project",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button",
-            "altText": "Start a Project"
-        },
-        {
             "type": "Button",
             "label": "Back to Home",
             "altText": "Back to homepage",
@@ -51,6 +42,15 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "Start a Project",
+            "url": "https://imbassy.com/start-a-project",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Button",
+            "altText": "Start a Project"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
