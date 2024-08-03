@@ -37,7 +37,7 @@
             "label": "Back to Home",
             "altText": "Back to homepage",
             "url": "imbassy.com",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
