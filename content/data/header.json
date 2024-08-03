@@ -43,7 +43,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Back to Home",
             "altText": "",
             "url": "imbassy.com",
             "showIcon": false,
