@@ -83,7 +83,7 @@
         },
         {
             "label": "Start a Project",
-            "url": "/",
+            "url": "https://imbassy.com/start-a-project",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
