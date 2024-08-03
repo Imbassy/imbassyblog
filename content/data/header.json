@@ -44,7 +44,7 @@
         {
             "type": "Button",
             "label": "Back to Home",
-            "altText": "",
+            "altText": "Back to homepage",
             "url": "imbassy.com",
             "showIcon": false,
             "icon": "arrowRight",
