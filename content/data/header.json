@@ -50,7 +50,8 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
-            "altText": "Start a Project"
+            "altText": "Start a Project",
+            "showIcon": true
         }
     ],
     "variant": "logo-left-primary-nav-centered",
