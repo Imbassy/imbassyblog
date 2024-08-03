@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Start a Project",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
